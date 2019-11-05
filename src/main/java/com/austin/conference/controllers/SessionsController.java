@@ -1,7 +1,7 @@
-package com.conduent.conference.controllers;
+package com.austin.conference.controllers;
 
-import com.conduent.conference.models.Session;
-import com.conduent.conference.repositories.SessionRepository;
+import com.austin.conference.models.Session;
+import com.austin.conference.repositories.SessionRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

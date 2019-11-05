@@ -1,7 +1,7 @@
-package com.conduent.conference.controllers;
+package com.austin.conference.controllers;
 
-import com.conduent.conference.models.Speaker;
-import com.conduent.conference.repositories.SpeakerRepository;
+import com.austin.conference.models.Speaker;
+import com.austin.conference.repositories.SpeakerRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

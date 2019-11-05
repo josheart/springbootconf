@@ -1,4 +1,4 @@
-package com.conduent.conference.models;
+package com.austin.conference.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
